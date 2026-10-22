@@ -33,7 +33,7 @@ No third-party dependencies are required.
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/linbeiwanglei/reservation-management.git
+   git clone https://github.com/mayday-linbei/reservation-management.git
    ```
 
 2. Open `Reservation Management.xcodeproj` in Xcode.
